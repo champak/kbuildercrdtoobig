@@ -1,0 +1,7 @@
+domain: foo
+repo: crdtoolarge
+resources:
+- group: bar
+  kind: TooBig
+  version: v1alpha1
+version: "2"

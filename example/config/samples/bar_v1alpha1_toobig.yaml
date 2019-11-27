@@ -1,0 +1,7 @@
+apiVersion: bar.foo/v1alpha1
+kind: TooBig
+metadata:
+  name: toobig-sample
+spec:
+  # Add fields here
+  foo: bar
